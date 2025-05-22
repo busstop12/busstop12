@@ -4,6 +4,6 @@
 * 🌱 I’m currently pursuing PhD in computer science.
 * 🏫 My research interests include Edge Computing and Artificial Intelligence.
 * 📫 How to reach me: tungwingho@outlook.com, tung@hust.edu.cn
-* ❤️ I love playing snooker and my idol is Judd Trump.
+* ❤️ I love playing snooker and my idol is Xintong Zhao.
 
 [![Tung's GitHub stats](https://github-readme-stats-aqx8.vercel.app/api?username=busstop12\&rank_icon=github)](https://github.com/busstop12/github-readme-stats)
